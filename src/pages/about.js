@@ -2,6 +2,7 @@ import * as React from 'react'
 
 
 const AboutPage = () => {
+    return (
     <main>
         <div>
         <title>About!</title>
@@ -9,6 +10,7 @@ const AboutPage = () => {
         <p>Help us with our project!</p>
         </div>
     </main>
+    )
 }
 
-    export default AboutPage
+    export default AboutPage    
